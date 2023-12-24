@@ -1,0 +1,5 @@
+The files are saved at docker volume `mojodocker_mojo`:
+```bash
+$ sudo -i
+$ cd /var/lib/docker/volumes/mojodocker_mojo/_data/mojo
+```
